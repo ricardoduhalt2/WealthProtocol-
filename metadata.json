@@ -1,0 +1,6 @@
+{
+  "name": "Wealth Protocol",
+  "description": "A web application to display Ordinal NFTs from the Wealth Protocol collection, showcasing hypermodern interactive cards with real-time data from Ordiscan.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
